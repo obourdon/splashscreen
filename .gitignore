@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# Backup
+*~
+
+# Output files
+splash_exe
+splash_target
+
